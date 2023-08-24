@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Direct React</title>
+    <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+
+</head>
+<body style="background-color: grey;">
+    <center><div id="mydiv"> </div></center>
+    <script type="text/babel">
+        function Hello(){
+            return <h1>morning</h1>
+     }
+     function cheya(x,y){
+        return alert (x-y)
+     }
+     
+
+     ReactDOM.render(<Hello/>,document.getElementById("mydiv"))
+
+    </script>
+    <button onclick="cheya(5,6)">cheyya</button>
+</body>
+</html>
