@@ -68,10 +68,6 @@ function App() {
     </div>
   );
 }
-
 export default App;
-Contributing
-Contributions to this repository are welcome! If you find any issues, want to add more learning components, or improve the existing ones, feel free to open a pull request. Please follow the contribution guidelines when submitting changes.
 
-License
-This project is licensed under the MIT License, which means you're free to use, modify, and distribute the code as you see fit.
+
