@@ -1,7 +1,7 @@
 
 React Learning Components
 
-Welcome to the React Learning Components repository! This repository is designed to help you learn and practice the basics of React by providing a collection of simple and fundamental React components. Whether you're new to React or looking to refresh your skills, these components will serve as building blocks for understanding core concepts.
+Welcome to the React Learning Components repository! This repository is designed to help to learn and practice the basics of React by providing a collection of simple and fundamental React components. Whether you're new to React or looking to refresh your skills, these components will serve as building blocks for understanding core concepts.
 
 Table of Contents
 Introduction
